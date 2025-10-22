@@ -15,3 +15,9 @@ OpenCV-Python Tutorials
 #Homework 3
 
 <img src="./notebook2.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+#Homework 4
+
+#Homework 5
+
+[![Video]([https://img.youtube.com/vi/djE9mk6Xm0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=djE9mk6Xm0w)
