@@ -18,6 +18,9 @@ OpenCV-Python Tutorials
 
 #Homework 4
 
+[![Video]([https://img.youtube.com/vi/b3ybvsXjJqA/maxresdefault.jpg)](https://www.youtube.com/watch?v=b3ybvsXjJqA)
+
+
 #Homework 5
 
 [![Video]([https://img.youtube.com/vi/djE9mk6Xm0w/maxresdefault.jpg)](https://www.youtube.com/watch?v=djE9mk6Xm0w)
